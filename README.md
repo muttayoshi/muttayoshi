@@ -9,7 +9,7 @@
    <br>
   <!-- If you forked this repo, Change the username as yours -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muttayoshi&theme=radical" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=muttayoshi&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=github" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=muttayoshi&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github" />
      <img align="center" src="https://streak-stats.demolab.com/?user=muttayoshi&theme=dark" />
   <br>
 </div>
