@@ -4,12 +4,12 @@
 I'm an Software Engineer with experience in backend development and system design.
 I focus on building scalable IT solutions and connecting technical teams with stakeholders.
 ```
+
 ---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muttayoshi&theme=slateorange&show_icons=true&count_private=true&rank_icon=github" />
   <img align="center" src="https://streak-stats.demolab.com/?user=muttayoshi&theme=dark" />
-  <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muttayoshi&theme=slateorange&show_icons=true&count_private=true&rank_icon=github" />
   <br>
 </div>
 
@@ -17,7 +17,6 @@ I focus on building scalable IT solutions and connecting technical teams with st
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusabarish&theme=radical&langs_count=10&count_private=true" />
-  <br>
   <br>
 </div>
 
