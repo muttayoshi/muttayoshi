@@ -16,7 +16,7 @@ I focus on building scalable IT solutions and connecting technical teams with st
 ---
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusabarish&theme=radical&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurusabarish&theme=radical&langs_count=10&count_private=true" />
   <br>
   <br>
 </div>
