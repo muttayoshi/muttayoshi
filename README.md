@@ -9,6 +9,12 @@ I focus on building scalable IT solutions and connecting technical teams with st
 
 <div align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=muttayoshi&theme=dark" />
+  <br>
+</div>
+
+---
+
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=muttayoshi&theme=slateorange&show_icons=true&count_private=true&rank_icon=github" />
   <br>
 </div>
